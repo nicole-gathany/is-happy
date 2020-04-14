@@ -24,3 +24,4 @@ console.log(isHappy(1));
 
 //should return false
 console.log(isHappy(2));
+console.log("hello");
